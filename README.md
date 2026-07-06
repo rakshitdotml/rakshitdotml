@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rakshit 👋
 
-<!--
-**rakshitdotml/rakshitdotml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | 
 
-Here are some ideas to get you started:
+I work on:
+- 🧠 Structured Data, and mostly classical machine learning
+- ⚙️ PySpark, ML pipelines, and applied data science
+- ✍️ Writing technical blogs on AI/ML systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| LLM Guard LoRA | Detects jailbreak and prompt injection attacks | Python, PEFT, TRL, PyTorch |
+| Document Intelligence Pipeline | OCR + embeddings + retrieval over scanned docs | PaddleOCR, Docling, FAISS |
+| Spark Logging Toolkit | Cleaner structured logging for PySpark jobs | PySpark, Log4j, Python |
+
+## 🛠️ Tech Stack
+
+Python · PySpark 
+
+## 📚 Currently Learning
+
+- Better LoRA/QLoRA training
+- RAG evaluation
+- Red-teaming LLMs
+- Agentic workflows
+
+## 📫 Connect
+
+- Blog: your-blog-link
+- LinkedIn: your-linkedin-link
